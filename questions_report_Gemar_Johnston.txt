@@ -1,0 +1,19 @@
+CUSTOMER QUESTIONS REPORT
+==================================================
+
+Question 1
+  Customer: Jack Black
+  Question: However, I do have one question about its features?
+
+Question 2
+  Customer: Garrett Momoa
+  Question: Can I get a replacement if the product breaks?
+
+Question 3
+  Customer: Garrett Momoa
+  Question: Can you get back to me by Monday?
+
+==================================================
+Total feedbacks in file:             3
+Feedbacks that contained a question: 2
+Total questions extracted:           3
